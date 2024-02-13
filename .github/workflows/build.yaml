@@ -163,6 +163,6 @@ jobs:
   #     - name: Checkout
   #       uses: actions/checkout@v4
   #     - name: Publish library
-        run: dotnet pack MusicDecrypto.Library/MusicDecrypto.Library.csproj -c Release -o .
-      - name: NuGet Release
-        run: dotnet nuget push MusicDecrypto.Library*.nupkg -k ${{ secrets.NUGET_API_KEY }} -s https://api.nuget.org/v3/index.json
+  #       run: dotnet pack MusicDecrypto.Library/MusicDecrypto.Library.csproj -c Release -o .
+  #     - name: NuGet Release
+  #       run: dotnet nuget push MusicDecrypto.Library*.nupkg -k ${{ secrets.NUGET_API_KEY }} -s https://api.nuget.org/v3/index.json
