@@ -1,9 +1,9 @@
 # MusicDecrypto
 
-[![Build](https://github.com/davidxuang/MusicDecrypto/actions/workflows/build.yaml/badge.svg)](https://github.com/davidxuang/MusicDecrypto/actions/workflows/build.yaml)
+[![Build](https://github.com/WenqiOfficial/MusicDecrypto/actions/workflows/build.yaml/badge.svg)](https://github.com/WenqiOfficial/MusicDecrypto/actions/workflows/build.yaml)
 [![NuGet](https://badgen.net/nuget/v/MusicDecrypto.Library)](https://www.nuget.org/packages/MusicDecrypto.Library/)
-[![GitHub release](https://img.shields.io/github/release/davidxuang/musicdecrypto.svg)](https://GitHub.com/davidxuang/musicdecrypto/releases/)
-[![GitHub license](https://img.shields.io/github/license/davidxuang/musicdecrypto.svg)](https://github.com/davidxuang/musicdecrypto/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/WenqiOffcial/musicdecrypto.svg)](https://github.com/WenqiOfficial/MusicDecrypto/releases/)
+[![GitHub license](https://img.shields.io/github/license/WenqiOffcial/musicdecrypto.svg)](https://github.com/WenqiOffcial/musicdecrypto/blob/master/LICENSE)
 
 This project implements music de-obfuscation on [.NET](https://dotnet.microsoft.com/), and accelerates the process with [SIMD](https://docs.microsoft.com/en-us/dotnet/standard/simd). The CLI program also uses [Native AOT](https://learn.microsoft.com/en-us/dotnet/core/deploying/native-aot/) feature.
 
@@ -36,3 +36,4 @@ Drag and drop files and/or directories on the CLI program or run:
 - [unlock-music](https://git.unlock-music.dev/um/web)
 - [unlock-mflac](https://github.com/zeroclear/unlock-mflac-20220931)
 - [parakeet-rs](https://github.com/parakeet-rs/parakeet-crypto-rs)
+- [MusicUnlock](https://blog.wenqi.icu/musicunlock)
