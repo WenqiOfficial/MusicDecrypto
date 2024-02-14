@@ -2,8 +2,8 @@
 
 [![Build](https://github.com/WenqiOfficial/MusicDecrypto/actions/workflows/build.yaml/badge.svg)](https://github.com/WenqiOfficial/MusicDecrypto/actions/workflows/build.yaml)
 [![NuGet](https://badgen.net/nuget/v/MusicDecrypto.Library)](https://www.nuget.org/packages/MusicDecrypto.Library/)
-[![GitHub release](https://img.shields.io/github/release/WenqiOffcial/musicdecrypto.svg)](https://github.com/WenqiOfficial/MusicDecrypto/releases/)
-[![GitHub license](https://img.shields.io/github/license/WenqiOffcial/musicdecrypto.svg)](https://github.com/WenqiOffcial/musicdecrypto/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/WenqiOfficial/musicdecrypto.svg)](https://github.com/WenqiOfficial/MusicDecrypto/releases/)
+[![GitHub license](https://img.shields.io/github/license/WenqiOfficial/musicdecrypto.svg)](https://github.com/WenqiOfficial/musicdecrypto/blob/master/LICENSE)
 
 This project implements music de-obfuscation on [.NET](https://dotnet.microsoft.com/), and accelerates the process with [SIMD](https://docs.microsoft.com/en-us/dotnet/standard/simd). The CLI program also uses [Native AOT](https://learn.microsoft.com/en-us/dotnet/core/deploying/native-aot/) feature.
 
